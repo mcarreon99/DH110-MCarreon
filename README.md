@@ -16,9 +16,9 @@ MyLab is a collection of online homework, tutorial, and assessment products desi
 I chose this specific course provider as I had to use it for one of my classes this previous quarter, and I did not have the best experience with it. The main issues I experienced were accessibility and consistency errors, and the software is very nitpicky and not up-to-date. The visual design is plain and not very engaging and the overall website still has much to improve on.  However, this is not very surprising as there was a general consensus amongst my fellow classmates that the website had __many issues__.
 ![MyLab Homepage](mylab-ss.png)
 
-Heuristic | Evaluation | Suggestion/Rating
---------- | ---------- | -----------------
-Visibility of system status | | suggestion: aslkdfs
+### 1. Visibility of System Status
+
+
 
 
 
